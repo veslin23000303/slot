@@ -50,7 +50,7 @@ Execute the program using runserver command.
 <td>Fundamentals of Web Application Development</td>
 <td>Computer networks</td>
 <td>French Basic and Advanced</td>
-<td>Digital Electronics</td>
+<td>Computer networks</td>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
 </tr>
@@ -110,7 +110,7 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19EE404</td>
+<td align="center">19CS406</td>
 <td>Computer network(CN)</td>
 </tr>
 <tr>
@@ -134,7 +134,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-04-29 at 08 46 56_2d12c6a8](https://github.com/veslin23000303/slot/assets/151148539/464d4e37-25d7-4d2e-9e1f-818024dab610)
+![WhatsApp Image 2024-04-29 at 09 04 57_c30d9f74](https://github.com/veslin23000303/slot/assets/151148539/3d7311f5-970d-46de-900e-1666c17a797b)
+
 
 
 ## RESULT
